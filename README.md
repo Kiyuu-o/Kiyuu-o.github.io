@@ -1,1 +1,1 @@
-# My personal CP Archive for study purpose
+# Kevin's Programming Blog
