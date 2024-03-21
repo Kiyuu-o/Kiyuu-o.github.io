@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Kiyuu-o.github.io/sitemap.xml
+Sitemap: https://Kiyuu-o.github.io///sitemap.xml
