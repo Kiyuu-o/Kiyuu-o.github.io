@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Student in Computing Science<br>University of Alberta, Edmonton, AB<br>kmiao [at] ualberta [dot] ca
+subtitle: Undergraduate Student in Computing Science<br>University of Alberta, Edmonton, AB<br>kmiao@ualberta.ca
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -17,11 +17,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-### About
+##### About
 
 I am an undergraduate student in University of Alberta. I am pursuing a Bachelor's degree in Computer Science. I spend time doing competitive programming and design practical algorithms to solve problems. I am interested in pursuing SWE and Game Development internships.
 
-### Competitive Programming
+##### Competitive Programming
 
 I enjoy doing Competitive Programming. I've been participating in International Collegiate Programming Contest and some other local contests in Alberta.
 
