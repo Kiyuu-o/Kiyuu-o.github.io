@@ -2,10 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Student in Computing Science<br>
-University of Alberta, Edmonton, AB<br>
-kmiao@ualberta.ca<br>
-<a href='https://open.kattis.com/users/kexuan-miao'>kattis</a> | <a href='https://codeforces.com/profile/11Rippuru'>codeforces</a> | <a href='https://www.linkedin.com/in/kevin-miao-cs/'>LinkedIn</a>
+subtitle: Undergraduate Student in Computing Science<br>University of Alberta, Edmonton, AB<br>kmiao@ualberta.ca
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
